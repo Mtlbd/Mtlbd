@@ -1,6 +1,6 @@
 # Hi! I'm Mohammad Talebi 👋
 
-👨‍💻 **DevOps and Master's student in Computer Networks**
+👨‍💻 **DevOps Engineer and Master's student in Computer Networks**
 
 🚀 **Skills:**
 - Linux (especially Ubuntu and CentOS)
