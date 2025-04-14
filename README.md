@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi! I'm Mohammad Talebi 👋
 
-<!--
-**Mtlbd/Mtlbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 **DevOps and Master's student in Computer Networks**
 
-Here are some ideas to get you started:
+🚀 **Skills:**
+- Linux (especially Ubuntu and CentOS)
+- Docker and Kubernetes
+- Database management (MySQL, Ceph, PostreSQL)
+- Monitoring tools like Zabbix, Grafana and PMM
+- Python and Bash scripting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Education:**
+- Master's student in Computer Networks at Khajeh Nasir University
+
+🌟 **Updates:**
+- Always learning and sharing new information
