@@ -9,10 +9,10 @@
 - Monitoring tools like Zabbix, Grafana and PMM
 - Python and Bash scripting
 
-🎓 **Education:**
+## 🎓 **Education:**
 - Master's student in Computer Networks at Khajeh Nasir University
 
-🌟 **Updates:**
+## 🌟 **Updates:**
 - Always learning and sharing new information
 
 ## 📫 How to reach me:
