@@ -3,7 +3,7 @@
 👨‍💻 **DevOps Engineer and Master's student in Computer Networks**
 
 ## 🚀 Skills:
-- Linux (especially Ubuntu and CentOS)
+- Linux (especially Ubuntu, Debian and CentOS)
 - Docker and Kubernetes
 - Database management (MySQL, Ceph, PostreSQL)
 - Monitoring tools like Zabbix, Grafana and PMM
