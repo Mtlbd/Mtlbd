@@ -16,5 +16,5 @@
 - Always learning and sharing new information
 
 ## 📫 How to reach me:
-- 📧 Email: [mtauniy47@gmail.com](mailto:mtauniy47@gmail.com)
+- 📧 Email: [mtauniy47@gmail.com](mailto:mtaunit47@gmail.com)
 - 🔗 LinkedIn: [in/mtlbd](https://www.linkedin.com/in/mtlbd)
